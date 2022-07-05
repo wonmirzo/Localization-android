@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tillar</string>
+    <string name="country">Buyuk Britaniya</string>
+    <string name="capital_city">London</string>
+    <string name="language">Inglizcha</string>
+    <string name="currency">Funt sterling</string>
+</resources>

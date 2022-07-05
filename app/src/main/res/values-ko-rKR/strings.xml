@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">언어</string>
+    <string name="country">대 브리튼 섬</string>
+    <string name="capital_city">런던</string>
+    <string name="language">영어</string>
+    <string name="currency">파운드 스털링</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="country">Great Britain</string>
+    <string name="capital_city">London</string>
+    <string name="language">English</string>
+    <string name="currency">Pound sterling</string>
+</resources>
